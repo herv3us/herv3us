@@ -1,9 +1,12 @@
-
 ## Hi there 👋
 
 Welcome to my GitHub-page, I'm Sofia! <br>
 I have a passion for programming and I’m currently learning frontend development with React.js.
 
+<br>
+
+<div align=center>
+  
 ### Languages and tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,4 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+  </div>
