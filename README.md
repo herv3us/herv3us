@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub-page, I'm Sofia!
+Welcome to my GitHub-page, I'm Sofia! <br>
 I have a passion for programming and I’m currently learning frontend development with React.js.
 
 ### Languages and tools
