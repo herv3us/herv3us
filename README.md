@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub-page, I'm Sofia! <br>
-I have a passion for programming and I’m currently learning testing with TypeScript.
+I have a passion for programming and I’m currently learning TypeScript and testing with jest.
 
 <br>
 
