@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   
 ## Hi there 👋
 
@@ -13,7 +13,6 @@ I have a passion for programming and I’m currently learning TypeScript and tes
  </div>
 
 
-<br>
 
 <div align=center>
   
