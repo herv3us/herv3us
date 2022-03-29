@@ -25,7 +25,8 @@ Gaming 🎮 | Music 🎧 | Sewing 🧵 | My family 👨‍👩‍👧‍👦
   </div>
   
   <div>
-  ### The languages I use the most
+  
+  ### Most used Languages
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
 
