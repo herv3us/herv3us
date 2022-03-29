@@ -1,11 +1,13 @@
-  <div>
-
+  <div style={{color: 'CC6699'}}>
+  
   ## Hi there 👋
+  
+  </div>
 
   Welcome to my GitHub-page, I'm Sofia! <br>
   I have a passion for programming and I’m currently learning React Native.
 
-  </div>
+ 
   
 
 
@@ -32,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-CC6699?style=for-the-badge&logo=github&logoColor=323330)
 ![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=CC6699)
 
-
+<br>
 
 
 ### Hobbies
