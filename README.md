@@ -1,7 +1,17 @@
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;>
+  
 ## Hi there 👋
 
 Welcome to my GitHub-page, I'm Sofia! <br>
 I have a passion for programming and I’m currently learning TypeScript and testing with jest.
+
+  
+### Most used Languages
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
+  
+ </div>
+
 
 <br>
 
@@ -26,9 +36,7 @@ Gaming 🎮 | Music 🎧 | Sewing 🧵 | My family 👨‍👩‍👧‍👦
   
   <div>
   
-  ### Most used Languages
-  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
+ 
 
 <!--
 **herv3us/herv3us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
