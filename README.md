@@ -18,8 +18,10 @@ I have a passion for programming and I’m currently learning TypeScript and tes
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+</div>
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
 
+<div align=center>
 ### Hobbies
 
 Gaming 🎮 | Music 🎧 | Sewing 🧵 | My family 👨‍👩‍👧‍👦
