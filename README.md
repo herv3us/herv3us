@@ -1,10 +1,13 @@
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   
+  <div>
+    
 ## Hi there 👋
 
 Welcome to my GitHub-page, I'm Sofia! <br>
 I have a passion for programming and I’m currently learning TypeScript and testing with jest.
 
+  </div>
   
 ### Most used Languages
   
