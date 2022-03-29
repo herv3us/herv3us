@@ -1,29 +1,19 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  
   <div>
 
   ## Hi there 👋
 
   Welcome to my GitHub-page, I'm Sofia! <br>
-  I have a passion for programming and I’m currently learning TypeScript and testing with jest.
+  I have a passion for programming and I’m currently learning React Native.
 
   </div>
   
-  <div>
-
-  ### Most used Languages
-
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
-
-  </div> 
-  
- </div>
 
 
 
 <div align=center>
   
 ### Languages and tools
+ ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -41,7 +31,14 @@ Gaming 🎮 | Music 🎧 | Sewing 🧵 | My family 👨‍👩‍👧‍👦
   </div>
   
   <div>
-  
+
+
+
+  ### Most used Languages
+
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=herv3us&theme=blue-green)
+
+
  
 
 <!--
