@@ -5,7 +5,7 @@
   </div>
 
   Welcome to my GitHub-page, I'm Sofia! <br>
-  I have a passion for programming and I’m currently learning React Native.
+  I have a passion for programming and I’m currently building all the frontend for an app in React Native.
 
  
   
