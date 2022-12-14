@@ -37,9 +37,9 @@
 <br>
 
 
-### Hobbies
+### Love
 
-Gaming 🎮 | Music 🎧 | Sewing 🧵 | My family 👨‍👩‍👧‍👦
+My family 👨‍👩‍👧‍👦 | Gaming 🎮 | Music 🎧 | Sewing 🧵 
   
   </div>
   
